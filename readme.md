@@ -85,14 +85,6 @@ python app.py
 - **POST** `/generate-report`  
   Generates aggregated analytical reports using optimized SQL queries.
 
----
-
-## Interview Talking Points
-- Simulated distributed systems using batch-based processing
-- Implemented fault-tolerant retry mechanisms
-- Optimized SQL queries using indexing and aggregation
-- Designed scalable REST APIs
-- Owned the system end-to-end, from design to implementation
 
 ---
 
